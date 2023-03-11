@@ -1,5 +1,4 @@
 # machine_learning_oil_business
-Menemukan lokasi yang cocok untuk penggalian sumur minyak baru.
 # Pendahuluan <a id='Pendahuluan'></a>
 
 Anda bekerja di perusahaan tambang minyak bernama OilyGiant. Tugas Anda adalah menemukan lokasi yang cocok untuk penggalian sumur minyak baru.
